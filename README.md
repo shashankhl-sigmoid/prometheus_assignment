@@ -22,7 +22,7 @@ Pre-requisites
 To run this stack, run the following command
 
 ```bash
-docker-compose up --built
+docker-compose up --build
 ```
 
 ## Screenshots
